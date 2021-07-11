@@ -1,0 +1,24 @@
+{“time”:1469501107,“action”:“Open”, "customer": {"name":"walmart", "address":"702 S.W. Eighth St., Bentonville, AR 72716"}}
+{“time”:1469501147,“action”:“Open”, "customer": {"name":"walmart", "address":"702 S.W. Eighth St., Bentonville, AR 72716"}}
+{“time”:1469501202,“action”:“Open”, "customer": {"name":"walmart", "address":"702 S.W. Eighth St., Bentonville, AR 72716"}}
+{“time”:1469501219,“action”:“Open”, "customer": {"name":"walmart", "address":"702 S.W. Eighth St., Bentonville, AR 72716"}}
+{“time”:1469501225,“action”:“Open”, "customer": {"name":"walmart", "address":"702 S.W. Eighth St., Bentonville, AR 72716"}}
+{“time”:1469501234,“action”:“Open”, "customer": {"name":"walmart", "address":"702 S.W. Eighth St., Bentonville, AR 72716"}}
+{“time”:1469501245,“action”:“Close”, "customer": {"name":"walmart", "address":"702 S.W. Eighth St., Bentonville, AR 72716"}}
+{“time”:1469501246,“action”:“Close”, "customer": {"name":"walmart", "address":"702 S.W. Eighth St., Bentonville, AR 72716"}}
+{“time”:1469501248,“action”:“Close”, "customer": {"name":"walmart", "address":"702 S.W. Eighth St., Bentonville, AR 72716"}}
+{“time”:1469501256,“action”:“Close”, "customer": {"name":"walmart", "address":"702 S.W. Eighth St., Bentonville, AR 72716"}}
+{“time”:1469501264,“action”:“Close”, "customer": {"name":"walmart", "address":"702 S.W. Eighth St., Bentonville, AR 72716"}}
+{“time”:1469501266,“action”:“Close”, "customer": {"name":"walmart", "address":"702 S.W. Eighth St., Bentonville, AR 72716"}}
+{“time”:1469501107,“action”:“Open”, "customer": {"name":"target", "address":"1000 Nicollet Mall Minneapolis, MN 55403"}}
+{“time”:1469501147,“action”:“Open”, "customer": {"name":"target", "address":"1000 Nicollet Mall Minneapolis, MN 55403"}}
+{“time”:1469501202,“action”:“Open”, "customer": {"name":"target", "address":"1000 Nicollet Mall Minneapolis, MN 55403"}}
+{“time”:1469501219,“action”:“Open”, "customer": {"name":"target", "address":"1000 Nicollet Mall Minneapolis, MN 55403"}}
+{“time”:1469501225,“action”:“Open”, "customer": {"name":"target", "address":"1000 Nicollet Mall Minneapolis, MN 55403"}}
+{“time”:1469501234,“action”:“Open”, "customer": {"name":"target", "address":"1000 Nicollet Mall Minneapolis, MN 55403"}}
+{“time”:1469501245,“action”:“Close”, "customer": {"name":"target", "address":"1000 Nicollet Mall Minneapolis, MN 55403"}}
+{“time”:1469501246,“action”:“Close”, "customer": {"name":"target", "address":"1000 Nicollet Mall Minneapolis, MN 55403"}}
+{“time”:1469501248,“action”:“Close”, "customer": {"name":"target", "address":"1000 Nicollet Mall Minneapolis, MN 55403"}}
+{“time”:1469501256,“action”:“Close”, "customer": {"name":"target", "address":"1000 Nicollet Mall Minneapolis, MN 55403"}}
+{“time”:1469501264,“action”:“Close”, "customer": {"name":"target", "address":"1000 Nicollet Mall Minneapolis, MN 55403"}}
+{“time”:1469501266,“action”:“Close”, "customer": {"name":"target", "address":"1000 Nicollet Mall Minneapolis, MN 55403"}}
